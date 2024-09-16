@@ -1,1 +1,1 @@
-# Demo-repository
+Thsi is just demo repository for practice.
